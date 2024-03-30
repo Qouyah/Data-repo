@@ -13,3 +13,12 @@ Pizza Sales Data: The primary dataset used for this analysis is the "pizza_sales
 - Excel - Data Cleaning [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
 - PowerBI - Creating reports
+
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase, i performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
