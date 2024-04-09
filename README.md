@@ -37,9 +37,14 @@ In the initial data preparation phase, i performed the following tasks:
 - Brie Carre Pizza contributes to minimum Total Orders.
 
 
+### Link to the Dynamic Dashboard
+[Click here](https://www.novypro.com/project/pizza-sales-dashboard-104) to view.
+
+
 ## Limitation
 
 - The dataset lack information on customer demographics, e.g Age and location, making it challenging to identify specific customer segments driving sales trends.
+  
 
 
 
