@@ -88,6 +88,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Orders DESC;
 
+
 -- Borrom 5 Pizzas by Total Orders
 SELECT Top 5 pizza_name, COUNT(DISTINCT order_id) AS Total_Orders
 FROM pizza_sales
